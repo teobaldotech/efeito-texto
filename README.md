@@ -42,6 +42,7 @@ span {
   display: inline-block;
   text-shadow: 0 0 0 whitesmoke;
   animation: smoky 5s 3s both infinite;
+  height: 30px;
 }
 
 span:nth-child(even){
